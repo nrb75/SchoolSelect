@@ -1,0 +1,58 @@
+SURVYEAR,FIPST,STABR,STATENAME,SEANAME,MSTREET1,MSTREET2,MSTREET3,MCITY,MSTATE,MZIP,MZIP4,PHONE,WEBSITE
+2015-2016,01,AL,ALABAMA,Alabama Department Of Education,5114 Gordon Persons Building,50 North Ripley St,,Montgomery,AL,36104,,3342429700,
+2015-2016,02,AK,ALASKA,Alaska Department of Education and Early Development,P.O. Box 110500,,,Juneau,AK,99811,0500,9074652800,http://education.alaska.gov/
+2015-2016,04,AZ,ARIZONA,Arizona Department of Education,1535 W. JEFFERSON STREET,,,PHOENIX,AZ,85007,3280,6025425393,www.azed.gov
+2015-2016,05,AR,ARKANSAS,ARKANSAS DEPARTMENT OF EDUCATION,FOUR CAPITOL MALL,ROOM 304A,,LITTLE ROCK,AR,72201,,5016284475,http://ArkansasEd.org
+2015-2016,06,CA,CALIFORNIA,California Department of Education,1430 N Street,,,Sacramento,CA,95814,5901,9163190800,http://www.cde.ca.gov/index.asp
+2015-2016,08,CO,COLORADO,Colorado Department of Education,201 EAST COLFAX AVENUE,,,DENVER,CO,80203,1799,3038666600,WWW.CDE.STATE.CO.US
+2015-2016,09,CT,CONNECTICUT,Connecticut State Department of Education,PO Box 2219,,,Hartford,CT,06145,2219,8607136500,www.state.ct.us/sde
+2015-2016,10,DE,DELAWARE,Delaware Department of Education,401 Federal Street,Suite 2,,Dover,DE,19901,3639,3027354000,www.doe.k12.de.us
+2015-2016,11,DC,DISTRICT OF COLUMBIA,WASHINGTON DC OFFICE OF THE ST SUPT OF EDUCATION,810 First Street NE,9th floor,,Washington,DC,20002,,2027276436,http://osse.dc.gov/seo/site/default.asp
+2015-2016,12,FL,FLORIDA,FLORIDA DEPARTMENT OF EDUCATION,OFFICE OF THE COMMISSIONER,TURLINGTON BUILDING STE 1514,325 WEST GAINES STREET,TALLAHASSEE,FL,32399,6533,8502450505,HTTP://WWW.FLDOE.ORG/
+2015-2016,13,GA,GEORGIA,Georgia Department of Education,2066 Twin Towers East,205 Jesse Hill Jr. Drive SE,,Atlanta,GA,30334,5001,4046562800,http://www.doe.k12.ga.us
+2015-2016,15,HI,HAWAII,Hawaii Department of Education,PO Box 2360,,,Honolulu,HI,96804,2360,8085863283,doe.k12.hi.us
+2015-2016,16,ID,IDAHO,Idaho State Department of Education,PO BOX 83720,,,BOISE,ID,83720,0027,2083326800,http://www.sde.idaho.gov/
+2015-2016,17,IL,ILLINOIS,Illinois State Board of Education,100 NORTH FIRST STREET,,,Springfield,IL,62777,0001,8662626663,www.isbe.net
+2015-2016,18,IN,INDIANA,Indiana Department of Education,Room 229 State House,,,Indianapolis,IN,46204,,3172326665,www.doe.in.gov
+2015-2016,19,IA,IOWA,Iowa Department of Education,400 E. 14th & Grand,Grimes State Office Building,,Des Moines,IA,50319,0146,5152815294,www.educateiowa.gov
+2015-2016,20,KS,KANSAS,Kansas State Department of Education,900 SW Jackson,,,Topeka,KS,66612,,7852963201,http://www.ksde.org
+2015-2016,21,KY,KENTUCKY,Kentucky Department of Education,Capital Plaza Tower,500 Mero St.,,Frankfort,KY,40601,,5025643141,www.education.ky.gov
+2015-2016,22,LA,LOUISIANA,Louisiana Department of Education,P.O. Box 94064,,,Baton Rouge,LA,70804,9064,2253423602,http://www.louisianabelieves.com
+2015-2016,23,ME,MAINE,Maine Department of Education,23 State House Station,,,Augusta,ME,04333,0023,2076246600,www.maine.gov/doe/
+2015-2016,24,MD,MARYLAND,Maryland State Department of Education,200 West Baltimore Street,,,Baltimore,MD,21201,2595,4107670100,www.marylandpublicschools.org
+2015-2016,25,MA,MASSACHUSETTS,Mass. Department of Elementary and Secondary Education,75 Pleasant Street,,,Malden,MA,02148,5023,7813383100,www.doe.mass.edu
+2015-2016,26,MI,MICHIGAN,MI Dept of Ed (MDE) & MI Center for Ed Perf and Info (CEPI),608 West Allegan Street,2nd Floor,,Lansing,MI,48909,,5173733324,www.michigan.gov/mde
+2015-2016,27,MN,MINNESOTA,Minnesota Department of Education,1500 Highway 36 West,,,Roseville,MN,55113,,6515828200,http://education.state.mn.us/mde/index.html
+2015-2016,28,MS,MISSISSIPPI,MISSISSIPPI DEPARTMENT OF EDUCATION,P. O. BOX 771,,,JACKSON,MS,39205,,6013593513,HTTP://WWW.MDE.K12.MS.US/
+2015-2016,29,MO,MISSOURI,MISSOURI DEPT OF ELEMENTARY AND SECONDARY EDUCATION,PO BOX 480,,,JEFFERSON CITY,MO,65102,0480,5737513503,http://dese.mo.gov
+2015-2016,30,MT,MONTANA,Montana Office of Public Instruction,1227 11th Avenue,P O Box 202501,,Helena,MT,59620,2501,4064443095,www.opi.mt.gov
+2015-2016,31,NE,NEBRASKA,Nebraska Department of Education,301 Centennial Mall South,PO Box 94987,,Lincoln,NE,68509,4987,4024712295,www.education.ne.gov
+2015-2016,32,NV,NEVADA,Nevada Department of Education,700 East Fifth Street,,,Carson City,NV,89701,,7756879100,http://www.doe.nv.gov
+2015-2016,33,NH,NEW HAMPSHIRE,NH Dept of Education,State Office Park South,,,Concord,NH,03301,3860,6032713876,www.education.nh.gov
+2015-2016,34,NJ,NEW JERSEY,NEW JERSEY DEPARTMENT OF EDUCATION,JUDGE ROBERT L CARTER BLDG,100 RIVERVIEW PLAZA,PO Box 500,Trenton,NJ,08625,0500,8779006960,www.state.nj.us/education/
+2015-2016,35,NM,NEW MEXICO,New Mexico Public Education Department,300 DON GASPAR,,,SANTA FE,NM,87501,2786,5058276526,www.ped.state.nm.us
+2015-2016,36,NY,NEW YORK,NEW YORK STATE EDUCATION DEPARTMENT,89 WASHINGTON AVE,,,ALBANY,NY,12234,,5184746569,www.nysed.gov
+2015-2016,37,NC,NORTH CAROLINA,North Carolina Department of Public Instruction,Education Building,301 North Wilmington Street,,Raleigh,NC,27601,2825,9198073430,www.ncpublicschools.org
+2015-2016,38,ND,NORTH DAKOTA,North Dakota Department of Public Instruction,600 E BOULEVARD AVENUE,11th FLOOR,DEPARTMENT 201,BISMARCK,ND,58505,0440,7013282260,www.nd.gov/dpi
+2015-2016,39,OH,OHIO,Ohio Department of Education,25 S Front St,,,Columbus,OH,43215,4176,8776446338,http://www.education.ohio.gov
+2015-2016,40,OK,OKLAHOMA,OKLAHOMA STATE DEPARTMENT OF EDUCATION,2500 NORTH LINCOLN BLVD,,,OKLAHOMA CITY,OK,73105,4599,4055213301,www.sde.ok.gov
+2015-2016,41,OR,OREGON,Oregon Department of Education,255 Capitol St NE,,,Salem,OR,97310,0203,5039475600,www.ode.state.or.us
+2015-2016,42,PA,PENNSYLVANIA,Pennsylvania Department of Education,333 Market St,,,Harrisburg,PA,17126,,7177836788,www.pde.state.pa.us
+2015-2016,44,RI,RHODE ISLAND,RHODE ISLAND DEPARTMENT OF EDUCATION,255 WESTMINSTER STREET,THE SHEPARD BUILDING,,PROVIDENCE,RI,02903,,4012228706,WWW.RIDE.RI.GOV
+2015-2016,45,SC,SOUTH CAROLINA,South Carolina Department of Education,1429 SENATE STREET,,,COLUMBIA,SC,29201,3730,8037348500,www.ed.sc.gov
+2015-2016,46,SD,SOUTH DAKOTA,South Dakota Department of Education,800 Governors Drive,,,Pierre,SD,57501,2294,6057733134,http://doe.sd.gov
+2015-2016,47,TN,TENNESSEE,Tennessee Department of Education,9th Floor,Andrew Johnson Tower,710 James Robertson Pkwy,Nashville,TN,37243,0375,6157415158,http://www.tn.gov
+2015-2016,48,TX,TEXAS,TEXAS EDUCATION AGENCY,1701 NORTH CONGRESS AVENUE,,,AUSTIN,TX,78701,,5124639734,TEA.TEXAS.GOV
+2015-2016,49,UT,UTAH,Utah State Office of Education,PO Box 144200,,,Salt Lake City,UT,84114,4200,8015387500,http://www.schools.utah.gov
+2015-2016,50,VT,VERMONT,Vermont Agency of Education,219 N. Main St. Suite 402,,,Barre,VT,05641,,8024791030,http://education.vermont.gov/
+2015-2016,51,VA,VIRGINIA,Virginia Department of Education,PO Box 2120,,,Richmond,VA,23218,2120,8042252023,http://www.doe.virginia.gov
+2015-2016,53,WA,WASHINGTON,Office of Superintendent of Public Instruction,P.O. Box 47200,,,Olympia,WA,98504,7200,3607256000,http://www.k12.wa.us/
+2015-2016,54,WV,WEST VIRGINIA,West Virginia Department of Education,1900 Kanawha Boulevard East,,,Charleston,WV,25305,,3045582681,http://wvde.state.wv.us
+2015-2016,55,WI,WISCONSIN,Wisconsin Dept of Public Instruction,PO Box 7841,,,Madison,WI,53707,7841,8004414563,dpi.wi.gov
+2015-2016,56,WY,WYOMING,Wyoming Department of Education,2300 Capitol Avenue,,,Cheyenne,WY,82002,,3077777673,http://edu.wyoming.gov/
+2015-2016,59,BI,BUREAU OF INDIAN EDUCATION,Bureau of Indian Education,,,,,,,,2022086123,www.bie.edu
+2015-2016,60,AS,AMERICAN SAMOA,AMERICAN SAMOA,,,,,AS,,,,http://www.asdoe.net/
+2015-2016,63,DD,DEPARTMENT OF DEFENSE EDUCATION ACTIVITY,Department of Defense Education Activity,4800 Mark Center Dr.,,,Alexandria,VA,22350,1400,5713720590,http://www.dodea.edu/
+2015-2016,66,GU,GUAM,Guam Department of Education,500 Mariner Avenue,,,Barrigada,GU,96913,,6713001547,www.gdoe.net
+2015-2016,72,PR,PUERTO RICO,PUERTO RICO DEPARTMENT OF EDUCATION,PO BOX 190759,,,SAN JUAN,PR,00919,0759,7877592000,http://www.de.gobierno.pr
+2015-2016,78,VI,U.S. VIRGIN ISLANDS,U.S. Virgin Islands Department of Education,1834 Kongens Gade,,,Saint Thomas,VI,00802,,3407740100,www.doe.vi
